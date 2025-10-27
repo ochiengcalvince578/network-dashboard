@@ -1,3 +1,3 @@
 - Network dashboard leveraging scapy python library
-- Webapp built using streamlit, with scapy objects strcutured in pd.datafarames
+- Webapp built using streamlit, with scapy objects structured in pd.datafarames
 - You can see at as my custom wireshark
